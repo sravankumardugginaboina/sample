@@ -1,0 +1,124 @@
+*{background-color: black;
+    margin: 0px;
+    color: white;
+}
+
+.header{
+    display: flex;
+    justify-content:space-between;
+    background-color:black;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    padding: 15px 0px;
+}
+.logo p{padding-left: 35px;
+font-size: 14px;}
+h1{color: white;
+    padding-left: 30px;
+}
+img{margin-top: 50px;
+    height:595px;
+    width: 100%;
+}
+
+.header .links{
+    display: flex;
+    padding-right: 50px;
+    list-style: none;
+    color: white;
+    font-size: 12px;
+}
+.links li{
+    padding: 0px 15px;
+}
+
+footer{
+    margin-top: -5px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    text-align: center;
+    position: fixed;
+    height: 65px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.explore{color: white;
+    text-align: center;
+    font-size: 26px;}
+
+.explore pre{
+    font-size: 15px;
+}
+.explore h2{
+    margin-top: -100px;
+}
+
+.row1{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.row1 img{
+    height: 400px;
+    width: 300px;
+}
+
+.row1 p{
+    font-size:13px;
+    margin-top: 4px;
+}
+
+.seemore{
+    text-align: center;
+}
+.seemore button{
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    color: aqua;
+}
+
+.journal{
+    text-align: center;
+}
+
+.row2{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.row2 img{
+    height: 350px;
+    width: 400px;
+}
+.campfire img{
+    height: 350px;
+    width: 100%;
+}
+.coroselbtn button{
+    position: relative;
+    top:-340px ;
+    height: 150px;
+    border: none;
+    background-color: transparent;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#previous{
+    position: relative;
+    left: 1280px;
+}
+
+.copyrights{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+
+

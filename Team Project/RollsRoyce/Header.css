@@ -1,0 +1,23 @@
+
+nav{
+    font-size: 25px;
+    background-color: rgb(255, 228, 196);
+    border: 1px solid black;
+    padding: 15px 15px 15px 15px;
+    border-radius: 30px;
+    margin: 0px;
+    padding-left: 20px;
+
+}
+a{
+    color: black;
+    text-decoration: double none;
+    margin: 30px;
+}
+ button{
+    margin: 20px;
+    background-color: green;
+    border: 1px solid green;
+    outline: none;
+    color: wheat;
+ }

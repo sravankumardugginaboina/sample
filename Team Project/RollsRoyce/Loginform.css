@@ -1,0 +1,39 @@
+body{
+    background-image: url("Loginform.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: fixed;
+    height: 730PX;
+    color: whitesmoke; 
+    text-align: center;
+
+}
+div{
+    border: 2px ;
+    justify-content: center;
+    padding-top: 10%;
+    
+}
+input{
+    border: none;
+    border-bottom: 1px solid white;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    font-size: 1.3vw ;
+}
+.button{
+    border: 1px solid white;
+    border-radius: 0%;
+    margin: 5%;
+    padding: 2px;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium';
+    height: 100%;
+    width: 250px;
+}
+.button:hover {
+        background: white;
+        color: black;
+        letter-spacing: 5px;
+}
